@@ -1,7 +1,3 @@
-ducnhando
-ducnhando12121999@gmail.com
-123456seven0971382399
-
 Lệnh Git:
 
 git clone <địa chỉ https> : clone project về máy
