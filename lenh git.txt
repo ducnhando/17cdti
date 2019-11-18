@@ -1,0 +1,23 @@
+ducnhando
+ducnhando12121999@gmail.com
+123456seven0971382399
+
+Lệnh Git:
+
+git clone <địa chỉ https> : clone project về máy
+
+git status: kiểm tra những file chưa thay đổi
+
+git add <* or tên file>: add
+
+git commit -m"<Comment>" : add file local
+
+git commit -a -m"<comment>": add file trực tiếp lên local (bỏ qua lệnh git add)
+
+git push:  đồng bộ lên Github
+
+git log: lấy id của những lần update... Nhấn Ctrl-C để dừng lệnh log
+
+git revert <id> -> nhấn esc -> :q -> enter  : quay lại lần update của id.
+
+git pull: cập nhật giữa local và github.
